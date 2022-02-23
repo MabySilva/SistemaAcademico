@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "SistemaAcademico.sln",
+    "projects": [
+      "SistemaAcademico\\SistemaAcademico.csproj"
+    ]
+  }
+}
